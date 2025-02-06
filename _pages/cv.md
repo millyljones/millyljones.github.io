@@ -27,8 +27,6 @@ Publications
   
 Talks
 ======
-* ISEC 2024
-* NCSE 2023
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
