@@ -9,7 +9,7 @@ redirect_from:
 
 ------
 
-I am a PhD student in the [School of mathematics, Statistics and Actuarial Science] at the University of Kent(https://www.kent.ac.uk/mathematics-statistics-actuarial-science), and a member of the [Statistical Ecology at Kent](https://research.kent.ac.uk/statistical-ecology/) group. My research area is in Statistical Ecology.
+I am a PhD student in the [School of mathematics, Statistics and Actuarial Science](https://www.kent.ac.uk/mathematics-statistics-actuarial-science) at the University of Kent, and a member of the [Statistical Ecology at Kent](https://research.kent.ac.uk/statistical-ecology/) group. My research area is in Statistical Ecology.
 
 I did my BSc in Mathematics (2020) and MSc in Computational Applied Mathematics (2021) at the University of Edinburgh before moving to the University of Kent to start my PhD.
 
