@@ -15,7 +15,7 @@ Education
 * MSc in Computational Applied Mathematics, University of Edinburgh, 2020 - 2021
 * BSc in Mathematics, University of Edinburgh, 2017 - 2020
   
-Copmuting Skills
+Computing Skills
 ======
 * R, Distance, nimble, LaTex
 
