@@ -17,7 +17,7 @@ Education
   
 Computing Skills
 ======
-* R, Distance, nimble, LaTex
+* R, Distance, NIMBLE, LaTex
 
 Publications
 ======
