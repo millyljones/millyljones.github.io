@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/eDNA-qPCR.md
 excerpt: '-'
-date: -
+date: '-'
 venue: '-'
 slidesurl: '-'
 paperurl: '-'
