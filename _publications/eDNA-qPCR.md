@@ -2,7 +2,7 @@
 title: "More than presence-absence; modelling (e)DNA concentration across time and space from qPCR survey data"
 collection: publications
 category: manuscripts
-permalink: /publication/eDNA-qPCR.md
+permalink: /publication/eDNA-qPCR
 excerpt: '-'
 date: '-'
 venue: '-'
