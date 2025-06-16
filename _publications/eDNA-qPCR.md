@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/eDNA-qPCR
 excerpt: '-'
-date: '2025'
+date: '2025/01/01'
 venue: '-'
 slidesurl: '-'
 paperurl: '-'
