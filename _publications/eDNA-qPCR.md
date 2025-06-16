@@ -3,7 +3,7 @@ title: "More than presence-absence; modelling (e)DNA concentration across time a
 collection: publications
 category: manuscripts
 permalink: /publication/eDNA-qPCR
-date: '2025/01/01'
+date: '01/01/2025'
 paperurl: '-'
 citation: '-'
 ---
