@@ -3,12 +3,12 @@ title: "More than presence-absence; modelling (e)DNA concentration across time a
 collection: publications
 category: manuscripts
 permalink: /publication/eDNA-qPCR
-date: '01/01/2025'
-paperurl: '-'
-citation: '-'
+date: '05/08/2025'
+paperurl: 'https://link.springer.com/article/10.1007/s42519-025-00477-9'
+citation: 'Jones, M., Matechou, E., Cole, D. et al. More than presence-absence; modelling (e)DNA concentration across time and space from qPCR survey data. J Stat Theory Pract 19, 68 (2025). https://doi.org/10.1007/s42519-025-00477-9'
 ---
 
-Paper awaiting publication.
+Link to published version can be found [here](https://link.springer.com/article/10.1007/s42519-025-00477-9).
 
 # Abstract
 
@@ -16,4 +16,4 @@ Environmental DNA (eDNA) surveys offer a revolutionary approach to species monit
 
 ## Code
 
-Code and Manuscript avaiable [here](https://github.com/millyljones/Spatio-temporal-eDNA).
+Code and (pre-print) Manuscript avaiable [here](https://github.com/millyljones/Spatio-temporal-eDNA).
