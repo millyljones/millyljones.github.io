@@ -1,7 +1,7 @@
 ---
 title: "Design and inference for line transect surveys in occupancy studies"
-collection: Drafts
-category: Manuscripts
+collection: publications
+category: manuscripts
 permalink: /publication/Line_transect
 date: '01/01/1970'
 paperurl: 'TBD'
