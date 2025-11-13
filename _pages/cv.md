@@ -14,12 +14,8 @@ Education
 * Ph.D , University of Kent, 2022 - ongoing
 * MSc in Computational Applied Mathematics, University of Edinburgh, 2020 - 2021
 * BSc in Mathematics, University of Edinburgh, 2017 - 2020
-  
-Computing Skills
-======
-* R, Distance, NIMBLE, LaTex
 
-Publications
+Publications and Drafts
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
