@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D , University of Kent, 2022 - ongoing
+* Ph.D University of Kent, 2022 - ongoing
 * MSc in Computational Applied Mathematics, University of Edinburgh, 2020 - 2021
 * BSc in Mathematics, University of Edinburgh, 2017 - 2020
 
