@@ -10,3 +10,7 @@ citation: 'TBD'
 
 Link to online draft can be found [here](http://millyljones.github.io/files/Camera_Malfunctions.pdf). 
 Target journal: ???.
+
+# Summary
+
+Something
