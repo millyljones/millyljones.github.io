@@ -8,7 +8,8 @@ paperurl: 'TBD'
 citation: 'TBD'
 ---
 
-Link to online draft can be found [here]((http://millyljones.github.io/files/Line_transect_occupancy_studies.pdf)).
+Link to online draft can be found [here]((http://millyljones.github.io/files/Line_transect_occupancy_studies.pdf)). 
+Target journal: Biometrics.
 
 # Abstract
 
