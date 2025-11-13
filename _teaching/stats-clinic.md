@@ -4,7 +4,7 @@ collection: teaching
 type: "Advisory"
 permalink: /teaching/stats-clinic
 venue: "University of Kent, Skills for Academic Success"
-date: 09/2024 - ongoing
+date: 09/2024 - 11/2025
 location: "University of Kent, UK"
 ---
 
