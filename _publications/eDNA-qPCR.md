@@ -2,7 +2,7 @@
 title: "More than presence-absence; modelling (e)DNA concentration across time and space from qPCR survey data"
 collection: publications
 category: manuscripts
-journal: Journal of Statistical Theory and Practice
+venue: Journal of Statistical Theory and Practice
 permalink: /publication/eDNA-qPCR
 date: '05/08/2025'
 paperurl: 'https://link.springer.com/article/10.1007/s42519-025-00477-9'
