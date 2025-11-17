@@ -18,3 +18,5 @@ Environmental DNA (eDNA) surveys offer a revolutionary approach to species monit
 ## Code
 
 Code and (pre-print) Manuscript avaiable [here](https://github.com/millyljones/Spatio-temporal-eDNA).
+
+<img src='/images/EDNA.png'>
