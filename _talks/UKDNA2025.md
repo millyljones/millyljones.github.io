@@ -2,7 +2,7 @@
 title: "More than presence-absence; modelling (e)DNA concentration across time and space from qPCR survey data"
 collection: UKEOF UKDNA
 type: "Lightning Talk"
-permalink: /talks/2025-05-13-talk-4
+permalink: /talks/UKDNA2025
 venue: "Royal Society"
 date: 13/05/2025
 location: "London, UK"
