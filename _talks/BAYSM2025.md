@@ -2,7 +2,7 @@
 title: "Modelling eDNA concentration across time and space from qPCR survey data"
 collection: BAYSM
 type: "Lightning Talk"
-permalink: /talks/2025-04-08-talk-3
+permalink: /talks/BAYSM2025
 venue: "Virtual"
 date: 08/04/2025
 location: "-"
