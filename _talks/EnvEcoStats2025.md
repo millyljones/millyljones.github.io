@@ -2,7 +2,7 @@
 title: "Estimating camera malfunction times from detection histories"
 collection: ENVECOSTATS
 type: "Contributed Talk"
-permalink: /talks/2025-07-02-talk-5
+permalink: /talks/EnvEcoStats2025
 venue: "University of Lancaster"
 date: 02/07/2025
 location: "Lancaster, UK"
