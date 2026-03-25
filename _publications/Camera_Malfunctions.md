@@ -18,3 +18,7 @@ Camera arrays record multi-species detections in continuous time, but individual
 A common approach is to discretise detections into counts over fixed time intervals and analyse them using Poisson hidden Markov models (HMMs). However, these arbitrary time interval discretisations constrain the latent state process to be estimated only over these discrete time points, which can obscure state transitions and lead to a loss of finer resolution detail.
 
 We propose a continuous-time formulation using a Markov-modulated mark Poisson process (MMMPP). This framework allows detections to be modeled in continuous time in addition to modelling the latent camera state continuously as a continuous time Markov chain (CTMC). This approach aims to reduce information loss introduced by discretization, and allow for the camera states to be monitored in continuous time.
+
+## Code
+
+Code associated with this project can be found [here](https://github.com/millyljones/Camera-Malfunctions).
